@@ -1,5 +1,9 @@
 # Site Airbnb en HTML & CSS
 
+## Lien du site web 
+
+https://arkenop.github.io/Airbnb/
+
 ## Aperçu
 
 Ce référentiel contient le code HTML et CSS pour le site web Airbnb. Le projet vise à reproduire le design et la fonctionnalité du site Airbnb, en mettant l'accent sur la mise en page de la page d'accueil.
